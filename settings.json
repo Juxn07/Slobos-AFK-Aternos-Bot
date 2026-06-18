@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mibnecraft2007.aternos.me",
-    "port": 63286,
+    "port": "63286",
     "version": "",
     "try-creative": false
   },
